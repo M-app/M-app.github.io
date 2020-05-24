@@ -74,6 +74,11 @@ para trabajar en equipo ya que se puede desacomplar el FrontEnd y el BackEnd alg
 * Esta aplicación se usa todos los días para tomar la asistencia estudiantil de los estudiantes
 * Funciona en el Colegio Tecnológico de Huehuetenango
 * Utilicé por primera vez una arquitectura de software para organizar mi código
+* Capacidad de guardar el registro de asistencia de todos los estudiantes todos los días
+* Ver que profesor tomo la asistencia de cada cada grado en cualquier fecha determinada
+* Ver las ausencias de los estudiantes de todo el establecimiento de una manera rápida y sencilla
+* Ver los datos de los estudiantes y todas las faltas que han tenido durante el ciclo escolar
+* Reportar todas las inasistencias mediante un mensaje de texto SMS a los números de teléfono que están registrados en la aplicación
 
 Al desarrollar esta aplicación tuve varios problemas en un principio con respecto al funcionamiento 
 ya que no estaba usando ninguna arquitectura para identificar más fácil las fallas, pero luego gracias
