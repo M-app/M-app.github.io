@@ -29,40 +29,9 @@
 * MongoDB Basic
 * Data Modeling in MongoDB
 
-## Experiencia Laboral
-### Sistema para el control de inventario, compras y ventas de una farmacia.
-[Ver en Github](https://github.com/M-app/SistemaControlFarmacias)
-* Desarrollado en Java
-* Uso JavaFX para la interfaz de usuario
-* Base de datos en Mysql
+## Proyectos de Programación y Experiencia Laboral
 
-En este sistema pude aprender a lidiar con una cantidad de código significativo y como 
-ayudan los pilares de la programación orientada a objetos a resolver varios problemas. 
-Aquí pude aprender a leer documentación y buscar las soluciones a los problemas
-que se me fueron presentando.
-
-### Manejo de un sitio web con PPC (Pago por click)
-Este trabajo consitió en configurar y optimizar tanto un sitio web estático como la plataforma de google adwords
-ahora llamada google ads para aparecer en los primeros resultados del buscador. 
-* Manejo de más de 5 mil dólares en publicidad
-* Conocimientos acerca de los indicadores claves de rendimiento de la plataforma de Google Ads
-* Experiencia implementando diversas estrategias de PPC para sobrepasar a la competencia
-* Conocimiento general del marketing digital y sus posibilidades
-* Diseño y edición de sitios web, así como algunos conceptos básicos de psicología del consumidor aplicada a sitios web
-
-### Sitios Web Estáticos Desarrollados
-* Turbo Grúas -  [Visitar la Página](https://turbogruasgt.firebaseapp.com/)
-
-* Grúas Fénix - [Visitar la Página](https://github.com/M-app/gruasfenix)
-* Grúas Catalán - [Visitar la Página](https://github.com/M-app/gruascatalan)
-Los últimos 2 proyectos están hechos para funcionar con google app engine, no utilizo la mayoría de 
-características solo son sitios estáticos, pero aquí fue mi primer acercamiento con la lógica 
-del funcionamiento de los motores de plantillas ya que funciona con Jinja2. 
-
-Y en general aquí pude poner en práctica algunos conceptos de HTML y CSS, como adaptar plantillas y 
-comprender algunos requerimientos del cliente. 
-
-### Aplicación de Chat para Android con la Antigua Versión de Firebase
+### Aplicación de Chat para Android con la Antigua Versión de Firebase (2015)
 [Ver en Github](https://github.com/M-app/Chat-Con-Firebase)
 * Crear grupos de chat
 * Capacidad de enviar texto he imágenes
@@ -74,7 +43,45 @@ En esta aplicación considero que empezé a darme cuenta que me gusta también u
 y sobre todo que sea fácil de usar para las personas, este fue mi primer proyecto personal que me propuse terminar, 
 pude aprender muchísimo, y me encanta el diseño que tenía. 
 
-### Adaptación del FrontEnd para una Sistema para la Administración de una Venta de Armas
+### Manejo de un sitio web con PPC (Pago por click) (2016-2019)
+Este trabajo consitió en configurar y optimizar tanto un sitio web estático como la plataforma de google adwords
+ahora llamada google ads para aparecer en los primeros resultados del buscador. 
+* Manejo de más de 5 mil dólares en publicidad
+* Conocimientos acerca de los indicadores claves de rendimiento de la plataforma de Google Ads
+* Experiencia implementando diversas estrategias de PPC para sobrepasar a la competencia
+* Conocimiento general del marketing digital y sus posibilidades
+* Diseño y edición de sitios web, así como algunos conceptos básicos de psicología del consumidor aplicada a sitios web
+
+### Sitios Web Estáticos Desarrollados (2016 - 2020)
+* Turbo Grúas -  [Visitar la Página](https://turbogruasgt.firebaseapp.com/)
+
+* Grúas Fénix - [Ver en Github](https://github.com/M-app/gruasfenix)
+* Grúas Catalán - [Ver en Github](https://github.com/M-app/gruascatalan)
+Los últimos 2 proyectos están hechos para funcionar con google app engine, no utilizo la mayoría de 
+características solo son sitios estáticos, pero aquí fue mi primer acercamiento con la lógica 
+del funcionamiento de los motores de plantillas ya que funciona con Jinja2. 
+
+Y en general aquí pude poner en práctica algunos conceptos de HTML y CSS, como adaptar plantillas y 
+comprender algunos requerimientos del cliente. 
+
+### Sistema para el control de inventario, compras y ventas de una farmacia (2017)
+[Ver en Github](https://github.com/M-app/SistemaControlFarmacias)
+* Desarrollado en Java
+* Uso JavaFX para la interfaz de usuario
+* Base de datos en Mysql
+
+En este sistema pude aprender a lidiar con una cantidad de código significativo y como 
+ayudan los pilares de la programación orientada a objetos a resolver varios problemas. 
+Aquí pude aprender a leer documentación y buscar las soluciones a los problemas
+que se me fueron presentando.
+
+### Docente de Nivel Medio de los cursos relacionados con tecnología en el Colegio Tecnológico de Huehuetenango - (2018-Presente)
+He enseñado más de 30 cursos diferentes abarcando desde los conceptos más basicos sobre hardware y software, pasando por la utilización
+de aplicaciones de ofimática y llegando hasta enseñar algunos conceptos básicos de los lenguajes de programación, redes y estructuras de datos. 
+
+Lo que más me ha gustado de este trabajo aparte de poder compartir mis conocimientos con los alumnos es que he aprendido el concepto de responsabilidad laboral, de cumplir con las diferentes tareas a diario y de siempre tener una actitud de servicio. 
+
+### Adaptación del FrontEnd para una Sistema para la Administración de una Venta de Armas (2020)
 [Ver en Github](https://github.com/M-app/armeria)
 * Utilicé una plantilla HTML y CSS ya hecha
 * Adapción a Vue donde fue necesario
@@ -86,7 +93,7 @@ luego cuando empezé a usar Vue JS me gustó bastante y ahora me siento con la c
 aplicaciones FrontEnd lo que antes de Vue no hubiera ni considerado. También veo que es muy útil 
 para trabajar en equipo ya que se puede desacomplar el FrontEnd y el BackEnd algo que antes no entendía. 
 
-### Android App para el Control de Asistencia de un Establecimiento Educativo
+### Android App para el Control de Asistencia de un Establecimiento Educativo - Con Imágenes (2019 - Presente)
 [Ver la Descripción del Proyecto](https://github.com/M-app/SAsistencia)
 
 * Esta aplicación se usa todos los días para llevar el control de la asistencia de los estudiantes
@@ -107,7 +114,7 @@ una arquitectura y mejorar la calidad y la limpieza de código.
 De ahora en delante considero que utilizar una arquitectura de software es sumamente útil y que ahorra mucho trabajo 
 a mediano y largo plazo ya sea si uno trabaja individual o en equipo. 
 
-### Sistema para el Control de Inventario de una venta de Productos Agropecuarios
+### Sistema para el Control de Inventario de una venta de Productos Agropecuarios - Con Imágenes (2020 - Presente)
 [Ver la Descripción del Proyecto](https://github.com/M-app/AgroLab)
 
 * El BackEnd está desarrollado en Django
@@ -126,14 +133,8 @@ ayuda con el tiempo que nos lleva resolverlos, a más experiencia menos tiempo, 
 tener el deseo de aprender algo nuevo cada día ya que siempre encontraremos alguna manera de hacer mejor
 y más rápido las cosas. 
 
+# status_actual = 'Searching Developer Job'
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
