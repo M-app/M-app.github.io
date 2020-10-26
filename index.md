@@ -127,6 +127,17 @@ por mililitro y otras unidades de medida, es por eso que decidí utilizar MongoD
 desde un inicio no estoy seguro de la estructura que va a tener la base de datos, y supe
 que la iba a necesitar cambiar muchas veces en el futuro. 
 
+### Trabajo Freelance en varios proyectos FrontEnd en Upwork
+Upwork es uno de los sitios más grandes de trabajadores freelance, tengo la oportunidad de formar parte
+de este sitio web y he realizado algunos proyectos de los cuales puedo mencionar:
+* Aplicación Web para manejar órdenes de comida y llevarla a domicilio (Módulo Food Ordering) en salerise.com
+* Aplicación Web para aprender a multiplicar de una manera interactiva (Producto aún no lanzado)
+* Aplicación Web para colocar pines sobre las imagenes y adjuntar contenido a cada pin (Producto aún no lanzado
+
+### Aplicación Web para el Control de Producción, Inventario y CRM para la Vidrería Carmen Calusha
+Sistema para diseñar varios sistemas de ventanas y puertas, controlar la manofactura de éstos productos y 
+tener el control de cada una de las ordenes de pedido durante todo el proceso desde la cotización hasta la entrega final. 
+
 ## ¿Qué he aprendido en mi poca experiencia? 
 La programación es una herramienta para resolver problemas grandes y pequeños, considero que la experiencia 
 ayuda con el tiempo que nos lleva resolverlos, a más experiencia menos tiempo, para mí es muy importante 
