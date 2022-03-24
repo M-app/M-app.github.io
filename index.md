@@ -127,22 +127,30 @@ por mililitro y otras unidades de medida, es por eso que decidí utilizar MongoD
 desde un inicio no estoy seguro de la estructura que va a tener la base de datos, y supe
 que la iba a necesitar cambiar muchas veces en el futuro. 
 
-### Trabajo Freelance en varios proyectos FrontEnd en Upwork
+### IMPORTANTE - Mi trabajo en Upwork
 Upwork es uno de los sitios más grandes de trabajadores freelance, tengo la oportunidad de formar parte
-de este sitio web y he realizado algunos proyectos de los cuales puedo mencionar:
+de este sitio web y ser de los mejores calificados ya que cuento con un porcentaje de satisfacción al cliente
+de 100% y con una insignia Top Rated que solo la obtiene el 10% de los usuarios de la plataforma
+y he realizado algunos proyectos de los cuales puedo mencionar:
 * Aplicación Web para manejar órdenes de comida y llevarla a domicilio (Módulo Food Ordering) en salerise.com
 * Aplicación Web para aprender a multiplicar de una manera interactiva (Producto aún no lanzado)
 * Aplicación Web para colocar pines sobre las imagenes y adjuntar contenido a cada pin (Producto aún no lanzado
+* Desarrollador Frontend para Brands of Americas https://brandsofamericas.com/en
+* Desarrollador Frontend para ciclo.tech específicamente en el producto Chaski
+
+Link de mi perfil en UPWORK https://www.upwork.com/freelancers/~011a663720a59b8481
+
+### Proyectos propios
 
 ### Aplicación Web para el Control de Producción, Inventario y CRM para la Vidrería Carmen Calusha
 Sistema para diseñar varios sistemas de ventanas y puertas, controlar la manofactura de éstos productos y 
 tener el control de cada una de las ordenes de pedido durante todo el proceso desde la cotización hasta la entrega final. 
 
-## ¿Qué he aprendido en mi poca experiencia? 
-La programación es una herramienta para resolver problemas grandes y pequeños, considero que la experiencia 
-ayuda con el tiempo que nos lleva resolverlos, a más experiencia menos tiempo, para mí es muy importante 
-tener el deseo de aprender algo nuevo cada día ya que siempre encontraremos alguna manera de hacer mejor
-y más rápido las cosas. 
+## Desarrollo de ERP para Global de Negocios La Montaña S.A
+Es una aplicación web alojada en la nube la cual proporciona las funcionalidades para controlar inventario en múltiples
+sucursales, cuenta con varios módulos, es multi usuario, cada día es utilizada por aproximadamente unas 15 personas
+el frontend lo desarrollé con Vuejs y el backend con Expressjs y con otras apis que ayudan a generar pdfs y otras que se
+van implementando segun las necesidades.
 
 # status_actual = 'Searching Developer Job'
 
