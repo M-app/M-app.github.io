@@ -1,7 +1,7 @@
 ## Acerca de Mi
-¡Hola! deja y me presento, mi nombre es Marcos y soy una persona a la que le encanta la tecnología, la música y el sonido de la lluvia. 
+¡Hola! deja y me presento, mi nombre es Marcos, soy Javascript Developer con mas de 4 años de experiendia. 
   Aquí encontrarás la información relacionada con mi educación y mi experiencia laboral, lo que no encontrarás es que soy una persona 
-  que le gusta levantarse con un propósito cada día, aprender algo nuevo, me gusta sentir que voy para adelante, tanto en mi vida laboral como en mi vida personal y algo que no puede faltar aquí es decirte que soy una persona curiosa, si no se algo lo aprendo. Y de algo que estoy seguro es que voy a tratar de ser alguien mejor cada día.  
+  que le gusta levantarse con un propósito cada día, aprender algo nuevo, me gusta sentir que voy para adelante, tanto en mi vida laboral como en mi vida personal y algo que no puede faltar aquí es decirte que soy una persona curiosa, si no se algo lo aprendo. Y de algo que estoy seguro es que voy a tratar de ser mejor cada día.  
 
 ---
 
@@ -28,6 +28,9 @@
 ### university.mongodb.com
 * MongoDB Basic
 * Data Modeling in MongoDB
+
+### frontendmasters.com
+* Javascript Professional Specialization
 
 ## Proyectos de Programación y Experiencia Laboral
 
@@ -129,8 +132,7 @@ que la iba a necesitar cambiar muchas veces en el futuro.
 
 ### IMPORTANTE - Mi trabajo en Upwork
 Upwork es uno de los sitios más grandes de trabajadores freelance, tengo la oportunidad de formar parte
-de este sitio web y ser de los mejores calificados ya que cuento con un porcentaje de satisfacción al cliente
-de 100% y con una insignia Top Rated que solo la obtiene el 10% de los usuarios de la plataforma
+de este sitio web y ser de los mejores calificados y con una insignia Top Rated que solo la obtiene el 10% de los usuarios de la plataforma
 y he realizado algunos proyectos de los cuales puedo mencionar:
 * Aplicación Web para manejar órdenes de comida y llevarla a domicilio (Módulo Food Ordering) en salerise.com
 * Aplicación Web para aprender a multiplicar de una manera interactiva (Producto aún no lanzado)
@@ -139,6 +141,16 @@ y he realizado algunos proyectos de los cuales puedo mencionar:
 * Desarrollador Frontend para ciclo.tech específicamente en el producto Chaski
 
 Link de mi perfil en UPWORK https://www.upwork.com/freelancers/~011a663720a59b8481
+
+### Landing https://www.checklyhq.com/product/terraform-provider/
+* HTML y CSS Puro
+* Javscript
+
+### Landing Pages para pruebas A/B, todas integradas con HubSpot
+* https://www.begiver.cl/
+* https://www.begiver.cl/productos/seguro/salud
+* https://www.begiver.cl/r3/productos/beneficios/examedi?hs_preview=OdMedjrK-86391634846
+
 
 ### Proyectos propios
 
